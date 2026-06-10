@@ -33,7 +33,7 @@
 <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/varnita-m-n-287208288/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:varnitamn17@gmail.com">
+<a href="varnitamn17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
