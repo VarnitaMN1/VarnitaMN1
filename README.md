@@ -43,10 +43,6 @@
 <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
-<img src="https://img.icons8.com/color/48/hackerrank.png" width="45" height="45"/>
-</a>
-
 </p>
 
 </td>
