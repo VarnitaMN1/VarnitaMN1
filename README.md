@@ -30,17 +30,30 @@
 ### 🌐 Connect With Me
 
 <p>
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/varnita-m-n-287208288/)">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+
+<a href="https://www.linkedin.com/in/varnita-m-n-287208288/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
 </a>
-<a href="varnitamn17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+
+<a href="mailto:varnitamn17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
 </a>
+
+<a href="https://github.com/varnitamn1" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+<img src="https://img.icons8.com/color/48/hackerrank.png" width="45" height="45"/>
+</a>
+
 </p>
 
 </td>
 
 <td width="45%" align="center">
+
+<!-- Replace with your uploaded animation GIF -->
 
 <img src="./assets/animation.gif" width="400"/>
 
@@ -116,16 +129,28 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 <a href="https://github.com/varnitamn1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🤍 Support My Journey
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/VarnitaMN1">
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-7F3FBF?style=for-the-badge"/>
 </a>
 
 </div>
@@ -134,8 +159,8 @@
 
 <div align="center">
 
-### ✨ Turning Ideas into Interactive Experiences
+### ✨ Turning Ideas Into Interactive Experiences
 
-<img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile+Views&color=7F3FBF&style=for-the-badge"/>
 
 </div>
