@@ -1,17 +1,15 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Varnita+M+N;Frontend+Developer+💻;Data+Analyst+📊;AI+Enthusiast+🤖;Building+Beautiful+Digital+Experiences+✨" />
+
+</div>
+
 <table>
 <tr>
 
 <td width="55%" valign="top">
 
-# Hi 👋, I'm Varnita M N
-
-### Frontend Developer • Data Analyst • AI Enthusiast 🇮🇳
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=FF69B4&width=500&lines=Frontend+Developer;Data+Analyst;React+Developer;Power+BI+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Industry-Level+Projects" alt="Typing SVG" />
-
-<br>
+### 💖 About Me
 
 🚀 Passionate about building impactful digital experiences
 
@@ -26,6 +24,8 @@
 📫 Reach me: **varnitamn17@gmail.com**
 
 ⚡ Fun Fact: **I think I'm funny 😄**
+
+<br>
 
 ### 🌐 Connect With Me
 
@@ -45,38 +45,34 @@
 
 </p>
 
+<br>
+
+```javascript
+const varnita = {
+  role: "Frontend Developer & Data Analyst",
+  location: "India 🇮🇳",
+  code: ["JavaScript", "Java", "Python", "C"],
+  frontend: ["React", "HTML", "CSS", "Tailwind"],
+  analytics: ["Power BI", "Pandas", "NumPy"],
+  interests: ["AI", "Machine Learning", "Cloud"],
+  motto: "Code • Create • Inspire ✨"
+};
+```
+
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=350&lines=Code.+Create.+Inspire.+✨;Frontend+Developer+💻;Data+Analyst+📊;AI+Explorer+🤖" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=350&lines=Girl+Who+Codes+💖;Frontend+Developer+✨;Data+Analyst+📊;AI+Explorer+🤖;Women+In+Tech+💜" />
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
----
-
-## 💖 About Me
-
-```javascript
-const varnita = {
-    role: "Frontend Developer & Data Analyst",
-    location: "India 🇮🇳",
-    languages: ["Java", "Python", "JavaScript", "C"],
-    frontend: ["React", "HTML", "CSS", "Tailwind"],
-    analytics: ["Power BI", "Pandas", "NumPy"],
-    currentlyLearning: ["AI", "Machine Learning", "Cloud"],
-    funFact: "I think I'm funny 😄"
-};
-```
 
 ---
 
@@ -84,7 +80,7 @@ const varnita = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,java,c,python,git,github,linux,aws,docker,kubernetes,postman,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,java,c,python,git,github,linux,aws,docker,kubernetes,postman,tensorflow,firebase,vscode" />
 
 </div>
 
@@ -102,7 +98,7 @@ const varnita = {
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitamn1&theme=radical&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitamn1&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -130,10 +126,10 @@ const varnita = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
 | 🌾 E-Mandi | AI-powered marketplace connecting farmers directly with buyers | React, Firebase, AI |
-| 🏖️ Event Management System | Beach festival & commercial event management platform | React, Bootstrap |
+| 🏖️ Event Management System | Beach festival & event management platform | React, Bootstrap |
 | 🗺️ Geo Mapping System | Interactive Leaflet mapping application | React, Leaflet |
 | 📊 Data Analytics Dashboard | Interactive business intelligence dashboards | Power BI, Python |
 
@@ -173,12 +169,10 @@ const varnita = {
 
 <div align="center">
 
-### ✨ Turning Ideas Into Interactive Experiences
-
 <img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile+Views&color=FF69B4&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer"/>
 
 </div>
