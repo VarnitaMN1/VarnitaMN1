@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://tenor.com/search/female-coder-gifs?format=gifs)" width="420"/>
+<img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ1Z3AzMTM1ZmpheWI3b282bXdoYjJlc2ZvYzRyZmg0YTltbTl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="420"/>
 
 <br><br>
 
