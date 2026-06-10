@@ -7,7 +7,7 @@
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="55%" valign="top">
 
 ### 💕 About Me
 
@@ -15,7 +15,7 @@
 
 📊 Turning data into actionable insights
 
-💻 Skilled in React, JavaScript, Python & Power BI
+💻 Skilled in React, JavaScript, Python, Java & Power BI
 
 🤖 Exploring AI, Machine Learning & Cloud Technologies
 
@@ -29,7 +29,7 @@
 
 ### 🌐 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://www.linkedin.com/in/varnita-m-n-287208288/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
@@ -49,13 +49,13 @@
 
 ```javascript
 const varnita = {
-  role: "Frontend Developer & Data Analyst",
-  location: "India 🇮🇳",
-  languages: ["JavaScript", "Java", "Python", "C"],
-  frontend: ["React", "HTML", "CSS", "Tailwind"],
-  analytics: ["Power BI", "Pandas", "NumPy"],
-  learning: ["AI", "Machine Learning", "Cloud"],
-  motto: "Code • Create • Inspire ✨"
+    role: "Frontend Developer & Data Analyst",
+    location: "India 🇮🇳",
+    languages: ["JavaScript", "Java", "Python", "C"],
+    frontend: ["React", "HTML", "CSS", "Tailwind"],
+    analytics: ["Power BI", "Pandas", "NumPy"],
+    learning: ["AI", "Machine Learning", "Cloud"],
+    motto: "Code • Create • Inspire ✨"
 };
 ```
 
@@ -63,11 +63,11 @@ const varnita = {
 
 <td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-74df-4f36-9a8b-f7fba1a3c6d1.gif" width="420"/>
+<img src="./female_developer_animation.gif" width="430" alt="Female Developer Animation"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=350&lines=Women+In+Tech+💜;Frontend+Developer+💖;Data+Analyst+📊;AI+Explorer+🤖;Code+Create+Inspire+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=400&lines=Women+In+Tech+💜;Frontend+Developer+💖;Data+Analyst+📊;AI+Explorer+🤖;Code+Create+Inspire+✨" />
 
 </td>
 
@@ -142,6 +142,16 @@ const varnita = {
 <a href="https://www.buymeacoffee.com/VarnitaMN1">
 <img src="https://img.shields.io/badge/☕_Support_My_Work-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitamn1&theme=react-dark&hide_border=true"/>
 
 </div>
 
