@@ -1,44 +1,59 @@
-<h1 align="center">Hi 👋, I'm Varnita M N</h1>
-
-<h3 align="center">
-Frontend Developer • Data Analyst • AI Enthusiast from India 🇮🇳
-</h3>
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<table>
+<tr>
 
-</div>
+<td width="55%" valign="top">
 
----
+# Hi 👋, I'm Varnita M N
 
-## 🚀 About Me
+### Frontend Developer • Data Analyst • AI Enthusiast 🇮🇳
 
-- 🎓 Passionate about Frontend Development, Data Analytics & AI
-- 🌱 Currently building real-world projects using React, Power BI & Python
-- 💡 Interested in Web Development, Data Visualization & Machine Learning
-- 📫 Reach me at **varnitamn17@gmail.com**
-- ⚡ Fun Fact: **I think I'm funny 😄**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=7F3FBF&width=500&lines=Frontend+Developer;Data+Analyst;React+Developer;Power+BI+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Industry-Level+Projects" alt="Typing SVG" />
 
----
+<br>
 
-## 🌐 Connect With Me
+🚀 Passionate about building impactful digital experiences
 
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+📊 Turning data into actionable insights
+
+💻 Skilled in React, JavaScript, Python & Power BI
+
+🤖 Exploring AI, Machine Learning & Cloud Technologies
+
+🌱 Always learning and creating real-world projects
+
+📫 Reach me: **varnitamn17@gmail.com**
+
+⚡ Fun Fact: **I think I'm funny 😄**
+
+### 🌐 Connect With Me
+
+<p>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/varnita-m-n-287208288/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <a href="mailto:varnitamn17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
+</td>
+
+<td width="45%" align="center">
+
+<img src="./assets/animation.gif" width="400"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -48,19 +63,19 @@ Frontend Developer • Data Analyst • AI Enthusiast from India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varnitamn1&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=varnitamn1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnitamn1&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnitamn1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varnitamn1&theme=tokyonight"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitamn1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,29 +85,57 @@ Frontend Developer • Data Analyst • AI Enthusiast from India 🇮🇳
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=varnitamn1&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=varnitamn1&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-## ☕ Support Me
+## 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/VarnitaMN1">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitamn1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🌾 E-Mandi | AI-powered marketplace connecting farmers directly with buyers | React, Firebase, AI |
+| 🏖️ Event Management System | Beach festival & commercial event management platform | React, Bootstrap |
+| 🗺️ Geo Mapping System | Interactive Leaflet map with coordinate processing | React, Leaflet |
+| 📊 Data Analytics Dashboard | Business intelligence and visualization platform | Power BI, Python |
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/varnitamn1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </div>
 
 ---
 
-## ✨ Profile Animation
-
 <div align="center">
 
-<!-- Replace animation.json with your uploaded Lottie file -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F5M3k4eDV5YjN5YjJ4cHJ3M2RkN2l6N2h5MWh6YjVvOGx5Y3k5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350"/>
+### ✨ Turning Ideas into Interactive Experiences
+
+<img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
