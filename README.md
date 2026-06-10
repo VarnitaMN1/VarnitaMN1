@@ -9,7 +9,7 @@
 
 ### Frontend Developer • Data Analyst • AI Enthusiast 🇮🇳
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=7F3FBF&width=500&lines=Frontend+Developer;Data+Analyst;React+Developer;Power+BI+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Industry-Level+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=FF69B4&width=500&lines=Frontend+Developer;Data+Analyst;React+Developer;Power+BI+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Industry-Level+Projects" alt="Typing SVG" />
 
 <br>
 
@@ -26,8 +26,6 @@
 📫 Reach me: **varnitamn17@gmail.com**
 
 ⚡ Fun Fact: **I think I'm funny 😄**
-<img src="./assets/3cc5f6fe-117f-11ee-8951-97f878212d11.json"/>
-
 
 ### 🌐 Connect With Me
 
@@ -51,9 +49,11 @@
 
 <td width="45%" align="center">
 
-<!-- Replace with your uploaded animation GIF -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
 
-<img src="./assets/animation.gif" width="400"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=350&lines=Code.+Create.+Inspire.+✨;Frontend+Developer+💻;Data+Analyst+📊;AI+Explorer+🤖" />
 
 </td>
 
@@ -61,6 +61,22 @@
 </table>
 
 </div>
+
+---
+
+## 💖 About Me
+
+```javascript
+const varnita = {
+    role: "Frontend Developer & Data Analyst",
+    location: "India 🇮🇳",
+    languages: ["Java", "Python", "JavaScript", "C"],
+    frontend: ["React", "HTML", "CSS", "Tailwind"],
+    analytics: ["Power BI", "Pandas", "NumPy"],
+    currentlyLearning: ["AI", "Machine Learning", "Cloud"],
+    funFact: "I think I'm funny 😄"
+};
+```
 
 ---
 
@@ -78,15 +94,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=varnitamn1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=varnitamn1&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnitamn1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnitamn1&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitamn1&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitamn1&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -96,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=varnitamn1&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=varnitamn1&theme=radical&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -106,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitamn1&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitamn1&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -114,12 +130,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
+| Project | Description | Tech |
+|----------|-------------|------|
 | 🌾 E-Mandi | AI-powered marketplace connecting farmers directly with buyers | React, Firebase, AI |
 | 🏖️ Event Management System | Beach festival & commercial event management platform | React, Bootstrap |
-| 🗺️ Geo Mapping System | Interactive Leaflet map with coordinate processing | React, Leaflet |
-| 📊 Data Analytics Dashboard | Business intelligence and visualization platform | Power BI, Python |
+| 🗺️ Geo Mapping System | Interactive Leaflet mapping application | React, Leaflet |
+| 📊 Data Analytics Dashboard | Interactive business intelligence dashboards | Power BI, Python |
 
 ---
 
@@ -135,7 +151,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -148,7 +164,7 @@
 <div align="center">
 
 <a href="https://www.buymeacoffee.com/VarnitaMN1">
-<img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-7F3FBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕_Support_My_Work-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
 </a>
 
 </div>
@@ -159,6 +175,10 @@
 
 ### ✨ Turning Ideas Into Interactive Experiences
 
-<img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile+Views&color=7F3FBF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=varnitamn1&label=Profile+Views&color=FF69B4&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
