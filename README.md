@@ -26,6 +26,8 @@
 📫 Reach me: **varnitamn17@gmail.com**
 
 ⚡ Fun Fact: **I think I'm funny 😄**
+<img src="./assets/3cc5f6fe-117f-11ee-8951-97f878212d11.json"/>
+
 
 ### 🌐 Connect With Me
 
