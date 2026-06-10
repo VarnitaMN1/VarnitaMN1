@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="./female_developer_animation.gif" width="450" alt="Female Developer Animation"/>
 
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Varnita+M+N;Frontend+Developer+💖;Data+Analyst+📊;AI+Enthusiast+🤖;Building+Beautiful+Digital+Experiences+✨" />
 
 <br><br>
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="420"/>
 
 ### 💕 About Me
 
