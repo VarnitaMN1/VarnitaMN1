@@ -7,9 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Varnita+M+N;Frontend+Developer+💖;Data+Analyst+📊;AI+Enthusiast+🤖;Building+Beautiful+Digital+Experiences+✨;Turning+Ideas+Into+Reality+🚀" />
 
 <br><br>
-
-<img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ1Z3AzMTM1ZmpheWI3b282bXdoYjJlc2ZvYzRyZmg0YTltbTl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="420"/>
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ1Z3AzMTM1ZmpheWI3b282bXdoYjJlc2ZvYzRyZmg0YTltbTl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="Female Developer GIF"/>
 <br><br>
 
 <img src="https://img.shields.io/badge/Frontend_Developer-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
